@@ -1,0 +1,6 @@
+#REDIRECT [[Bailie]]
+
+{{Redirect category shell |
+  {{R from move}}
+  {{R from alternative spelling}}
+}}

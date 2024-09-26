@@ -1,0 +1,5 @@
+#REDIRECT [[Blake (surname)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

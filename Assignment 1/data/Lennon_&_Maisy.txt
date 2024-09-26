@@ -1,0 +1,6 @@
+#REDIRECT [[John Lennon]]
+
+{{Rcat shell|
+{{R from surname|nocat}}
+{{R mentioned in a hatnote}}
+}}

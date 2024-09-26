@@ -1,0 +1,7 @@
+#REDIRECT [[Angelina Jolie]]
+
+{{Redirect category shell|
+{{R from surname}}
+{{R hatnote}}
+{{R printworthy}}
+}}
