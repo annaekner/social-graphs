@@ -141,6 +141,8 @@ data/raw
 data/raw\dataset
 data/
 data/*
+discarded_data/*
+discarded_data/
 
 # pytorch lightning
 lightning_logs/
@@ -159,3 +161,4 @@ secret
 .config.local
 *pt:Zone.Identifier
 m
+
