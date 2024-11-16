@@ -143,6 +143,8 @@ data/
 data/*
 discarded_data/*
 discarded_data/
+subreddit_communities/
+subreddit_term_freq/
 
 # pytorch lightning
 lightning_logs/
